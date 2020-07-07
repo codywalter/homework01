@@ -1,0 +1,2 @@
+# homework01
+I first cleaned up the html and added a header and footer at the top and bottom of the page respectively. I also added a nav element in the header to distinguish the menu on the page. I added the comments in the css and moved the appropriate elements and classes under them so they would be easier to find. I also added alt attributes to all images and icons to make the site more accessible. 
